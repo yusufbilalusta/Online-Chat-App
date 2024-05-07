@@ -1,0 +1,18 @@
+.background {
+    -fx-background-color: #569153; /* Arkaplan rengini gri yapar */
+}
+.text-field {
+    -fx-background-color: #575757; /* Arka plan rengi */
+    -fx-background-radius: 5; /* Köşe yuvarlama */
+    -fx-border-color: #ccc; /* Kenarlık rengi */
+    -fx-border-radius: 5; /* Kenarlık köşe yuvarlama */
+    -fx-border-width: 1; /* Kenarlık kalınlığı */
+    -fx-text-fill: #FFFFFF; /* Yazı rengi */
+    -fx-font-size: 14px; /* Yazı boyutu */
+    -fx-padding: 5; /* İç boşluk */
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+}
+.black-background{
+    -fx-background-color: #575757;
+}
